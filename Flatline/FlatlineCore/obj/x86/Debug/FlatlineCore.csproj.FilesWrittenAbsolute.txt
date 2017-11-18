@@ -1,0 +1,5 @@
+/home/tom/projects/flatline/Flatline/FlatlineCore/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tom/projects/flatline/Flatline/FlatlineCore/bin/Debug/FlatlineCore.exe.mdb
+/home/tom/projects/flatline/Flatline/FlatlineCore/bin/Debug/FlatlineCore.exe
+/home/tom/projects/flatline/Flatline/FlatlineCore/obj/x86/Debug/FlatlineCore.exe
+/home/tom/projects/flatline/Flatline/FlatlineCore/obj/x86/Debug/FlatlineCore.exe.mdb
