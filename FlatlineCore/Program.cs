@@ -14,7 +14,7 @@ namespace FlatlineCore
 			}
       else
       {
-        ExecuteCommand(args[0], args.Skip(1)); //todo: find out how to get all but the first value of an array
+        ExecuteCommand(args[0], args.Skip(1));
       }
 		}
 
